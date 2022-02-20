@@ -1,0 +1,3 @@
+﻿  CardTrick.cpp
+C:\Users\Steven\Desktop\5yearPlan!\Publishable Code\HeidCardTrickC++\CardTrick\CardTrick.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CardTrick.vcxproj -> C:\Users\Steven\Desktop\5yearPlan!\Publishable Code\HeidCardTrickC++\CardTrick\Debug\CardTrick.exe
